@@ -350,6 +350,6 @@ MigrationBackup/
 .ionide/
 
 .vs
-.vscode
+
 **/local.settings.json
 **/project.assets.json
