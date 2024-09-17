@@ -9,7 +9,7 @@ param cosmosDbContainerName string
 @maxLength(50)
 param searchServiceNamePrefix string = '${uniqueString(resourceGroup().id)}service'
 
-param primaryLocation string = 'eastus'
+param primaryLocation string = 'eastus2'
 
 param secondaryLocation string = 'westus'
 
